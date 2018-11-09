@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="show_book.xsl"?>
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+<!--catalog last updated 2000-11-01-->
+<frutas>
+<p class="importante">tipo de almacenamiento</p>
+
